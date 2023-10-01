@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Penalidades Win 7",
+    "slug": "Penalidades-Win-7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B1E23"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "backgroundColor": "#1B1E23"
+
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1B1E23"
+      },
+      "package": "com.Penalidades.PenalidadesPT",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "256ca0bf-b12d-43b1-8f28-f29952973aa1"
+      }
+    }
+  }
+}
