@@ -8,9 +8,13 @@
     "eas": "^0.1.0",
     "expo": "^49.0.7",
     "expo-notifications": "^0.20.1",
+    "expo-router": "^2.0.8",
     "react": "^18.2.0",
+    "react-native-appsflyer": "^6.12.2",
     "react-native-simple-toast": "^3.0.1",
     "react-native-webview": "13.2.2",
-    "react-navigation-header-buttons": "^11.0.1"
+    "react-navigation-header-buttons": "^11.0.1",
+    "react-router-dom": "^6.16.0",
+    "react-router-native": "^6.16.0"
   }
 }

@@ -17,7 +17,7 @@ const Popup = ({ visible, onClose }) => {
         } else {
           // Se o contador existir, verifique se o usuário já abriu o aplicativo 3 vezes
           const displayCount = parseInt(count);
-          if (displayCount < 30000) {
+          if (displayCount < 3) {
             setShouldDisplayPopup(true);
             AsyncStorage.setItem('popupDisplayCount', (displayCount + 1).toString());
           }

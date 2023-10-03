@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1B1E23"
       },
-      "package": "com.Penalidades.PenalidadesPT",
+      "package": "com.Penalty.Penalt",
       "versionCode": 1
     },
     "extra": {
