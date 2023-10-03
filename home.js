@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { View, StyleSheet, TouchableOpacity, Clipboard, ToastAndroid, Linking, Image, } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import Popup from './Popup';
-/*
+
 import appsFlyer from 'react-native-appsflyer';
 
 appsFlyer.initSdk(
@@ -20,7 +20,7 @@ appsFlyer.initSdk(
     console.error(error);
   }
 );
-*/
+
 
 
 
